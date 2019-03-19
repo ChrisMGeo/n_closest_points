@@ -1,0 +1,5 @@
+{
+  "name": "@chrismg/n_closest_points",
+  "version": "1.0.0",
+  "description": "A simple npm package to find n closest points from an array of co-ordinates."
+}
