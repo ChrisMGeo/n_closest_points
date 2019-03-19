@@ -1,5 +1,14 @@
 {
   "name": "@chrismg/n_closest_points",
   "version": "1.0.0",
-  "description": "A simple npm package to find n closest points from an array of co-ordinates."
+  "description": "A simple npm package to find n closest points from an array of co-ordinates.",
+  "license":"MIT",
+  "repository":"ChrisMGeo/n_closest_points",
+  "main":"src/main.js",
+  "keywords":[
+    "n_closest_points",
+    "npm",
+    "package",
+    "ChrisMGeo"
+  ]
 }
